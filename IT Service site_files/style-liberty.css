@@ -1,0 +1,31 @@
+.first{
+    background-color: #030365c9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sec{
+      background-image: url('./assets/images/banner1.jpg');
+      height: auto;
+      padding-top: 60px;
+      padding-bottom: 60px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+}
+
+.third{
+         background-image: url(./assets/images/banner.jpg);
+         background-position: center;
+         height: auto;
+         background-size: cover;
+         background-repeat: no-repeat;
+}
+
+.vidsec{
+          background-image: url('./assets/images/banner.jpg');
+          background-attachment: fixed;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+}
